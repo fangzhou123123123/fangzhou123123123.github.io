@@ -15,7 +15,7 @@
     <img src="02-5.jpg" alt="我的图片">
     <img src="02-6.jpg" alt="我的图片">
     <img src="02-7.jpg" alt="我的图片">
-    <img src="02-8.jpg alt="我的图片">
+    <img src="02-8.jpg  alt="我的图片">
 </body>
 </html>
 
