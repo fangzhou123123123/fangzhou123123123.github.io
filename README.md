@@ -12,7 +12,6 @@
     <img src="08.08-2.jpg" alt="我的图片">
     <img src="08.08-3.jpg" alt="我的图片">
     <img src="08.08-4.jpg" alt="我的图片">
-    <img src="08.08-1.jpg" alt="我的图片">
     <img src="08.08-5.jpg" alt="我的图片">
     <img src="08.08-6.jpg" alt="我的图片">
     <img src="08.08-7.jpg" alt="我的图片">
