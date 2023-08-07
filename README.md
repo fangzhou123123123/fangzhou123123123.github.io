@@ -7,7 +7,7 @@
     <h1>情话轻谈2023.08.08</h1>
     <p>
 </p>
-    <img src="08.08-1.jpg" alt="我的图片">
+    <img src="08.08-0.jpg" alt="我的图片">
     <img src="08.08-1.jpg" alt="我的图片">
     <img src="08.08-2.jpg" alt="我的图片">
     <img src="08.08-3.jpg" alt="我的图片">
